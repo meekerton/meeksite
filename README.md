@@ -1,2 +1,5 @@
 # my-stuff
-stuff i made or tweaked
+This is really cool!!!
+
+Log:
+Entry 1. Nothing
